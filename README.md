@@ -11,3 +11,10 @@ https://github.com/aelsabbahy/goss
 ## jenkins
 
 ## Terraform
+
+## デプロイ
+* ブルーグリーンデプロイ
+* イミュータブルデプロイ
+* シンボリックデプロイ
+* ローリングデプロイ
+* カナリアデプロイ
