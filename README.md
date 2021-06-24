@@ -1,6 +1,7 @@
 # DevOps
 
 ## Infracture as Code
+サーバやネットワークなどのインフラ構成をコード化し、ソフトウェア開発の考え方やスタイルをインフラ運用に取り入れること
 
 ## Ansible
 https://qiita.com/tmurakam99/items/8e609f174f5804308a20
